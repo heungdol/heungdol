@@ -22,8 +22,9 @@
 
 ### 외부링크
 - [개인 블로그](https://daheung.blogspot.com/ "개인 블로그")
-- [개발 유튜브](https://www.youtube.com/channel/UCmlTzrH3QfT-sgIcCIC_77g "개발 유튜브")
-- [개발 인스타그램](https://www.instagram.com/daheung_gamedev/ "개발 인스타그램")
+- [개발 유튜브](https://www.youtube.com/channel/UCmlTzrH3QfT-sgIcCIC_77g "개인 유튜브")
+- [개발 트위터](https://twitter.com/coca0105 "개인 트위터")
+- [개발 인스타그램](https://www.instagram.com/daheung_gamedev/ "개인 인스타그램")
 
 <!---
 heungdol/heungdol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
